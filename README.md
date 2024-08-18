@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Abhishek895965/Abhishek895965/blob/main/Abhishek.png" alt="logo" width="1000">
+<!-- <img align="center" src="https://github.com/Abhishek895965/Abhishek895965/blob/main/Abhishek.png" alt="logo" width="1000"> -->
 <h1 align="center">Hi 👋, I'm Abhishek Bagri</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
